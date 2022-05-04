@@ -10,10 +10,9 @@ Create and activate the virtual environment environment `    `:
 conda activate FEGFS
 ```
 ### Package
-
 | package | version |
 | :----: | :----: |
-| pandas | 0.25.1 |
-| numpy | 1.16.5 |
-| scikit-learn | 0.21.3 |
-| matplotlib | 3.3.1 |
+| Keras  | 2.2.4 |
+| TensorFlow | 1.14.0 |
+| scikit-learn | 0.24.1 |
+| genism | 3.8.3 |

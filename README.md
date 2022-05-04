@@ -1,5 +1,4 @@
-# surui
-## A Novel scRNA-seq Data Feature Extraction Method Based on Gene Function Analysis
+## surui 
 
 ## Table of contents
 * [Install](#Install)
@@ -13,11 +12,11 @@
 
 Firstly, we suggest to build a new virtual environment through `Anaconda`:
 ```
-conda create -n FEGFS python=3.6
+conda create -n    python=3.6
 ```
 Create and activate the virtual environment environment `    `:
 ```
-conda activate FEGFS
+conda activate  
 ```
 ### Package
 | package | version |

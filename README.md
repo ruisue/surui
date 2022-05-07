@@ -5,7 +5,7 @@
 	* [Install using `pip`](#Install)
 	* [package](#Package)
 * [Usage](#Usage)
-	* [Feature extraction](#Classifier)
+	* [Feature extraction](#Feature extraction)
 	* [Classifier](#Classifier) 
 ## Install
 ### Install using `pip`

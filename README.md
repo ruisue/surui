@@ -5,8 +5,8 @@
 	* [Install using `pip`](#Install)
 	* [package](#Package)
 * [Usage](#Usage)
-	* [Example](#Example)
-	* [Real data](#Example) 
+	* [Feature extraction](#Example)
+	* [Classifier](#Example) 
 ## Install
 ### Install using `pip`
 
@@ -25,10 +25,9 @@ conda activate
 | tensorFlow | 1.14.0 |
 | scikit-learn | 0.24.1 |
 | genism | 3.8.3 |
-
-##Feature extraction：
+## Usage
+### Feature extraction：
   * word2vec.py is the implementation of Word2vec features.
-
-**Classifier:
+### Classifier:
   *train.py is the implemention of our model
 

@@ -5,8 +5,8 @@
 	* [Install using `pip`](#Install)
 	* [package](#Package)
 * [Usage](#Usage)
-	* [Feature extraction](#Example)
-	* [Classifier](#Example) 
+	* [Feature extraction](#Feature extraction)
+	* [Classifier](#Classifier) 
 ## Install
 ### Install using `pip`
 
@@ -29,5 +29,5 @@ conda activate
 ### Feature extraction：
   * word2vec.py is the implementation of Word2vec features.
 ### Classifier:
-  *train.py is the implemention of our model
+  * train.py is the implemention of our model
 
